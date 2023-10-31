@@ -1,0 +1,7 @@
+# colcon
+/build/
+/install/
+/log/
+
+# Python
+*.pyc

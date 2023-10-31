@@ -1,0 +1,9 @@
+repositories:
+  launch_unifier:
+    type: git
+    url: https://github.com/xmfcx/launch_unifier.git
+    version: main
+  launch_ros:
+    type: git
+    url: https://github.com/xmfcx/launch_ros.git
+    version: launch-unifier
